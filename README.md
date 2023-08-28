@@ -69,8 +69,8 @@ Hi there, I'm Felipe Marques – a seasoned iOS developer with a passion for cre
 
 ### Languages and Tools:
 <div align="center">
-    <img width="42px" height="42px" alt="Swift Icon" src="Assets/Images/Icons/Swift.jpeg"/>
-    <img width="42px" height="42px" alt="Objective-C Icon" src="Assets/Images/Icons/objc.png"/>
+    <img width="42px" height="42px" alt="Swift Icon" src="Assets/Images/Icons/Swift.png"/>
+    <img width="42px" height="42px" alt="Objective-C Icon" src="Assets/Images/Icons/obj-c.png"/>
 </div>
 
 <div align="center">
@@ -79,8 +79,8 @@ Hi there, I'm Felipe Marques – a seasoned iOS developer with a passion for cre
 </div>
 
 <div align="center">
-    <img width="42px" height="42px" alt="Figma Icon" src="Assets/Images/Icons/figma.png"/>
-    <img width="42px" height="42px" alt="Firebase Icon" src="Assets/Images/Icons/Firebase.jpeg"/>
+    <img width="42px" height="42px" alt="Figma Icon" src="Assets/Images/Icons/Figma.png"/>
+    <img width="42px" height="42px" alt="Firebase Icon" src="Assets/Images/Icons/firebase.png"/>
     <img width="42px" height="42px" alt="Xcode Icon" src="Assets/Images/Icons/xcode.png"/>
     <img width="42px" height="42px" alt="Git Icon" src="Assets/Images/Icons/git.png"/>
 </div>
