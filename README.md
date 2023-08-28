@@ -1,4 +1,4 @@
-<!-- 
+<!--  Unfortunately CSS does not work on Github
 <style>
 .item {
     vertical-align: top;
@@ -42,16 +42,13 @@
 -->
 
 ![Banner](Assets/Images/Banner/Github.png)
-<!-- 
-**felipemr/felipemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 
 Hi there, I'm Felipe Marques – a seasoned iOS developer with a passion for creating innovative apps that make a difference. With a background in 3D animation and computer science. When I'm not coding, I love spending time with my four dogs and cat and watching movies and TV series. I'm always looking to learn something new and expand my skills. Always excited to take on new challenges and push the boundaries of what's possible in iOS development.
 
 ---
 
 ### Stats:
+<!-- Unfortunately CSS does not work on Github, uncomment this if this changed
 <div class="stats">
   <a class="status" href="https://github.com/felipemr">
     <img src="https://streak-stats.demolab.com?user=felipemr&theme=dracula&card_width450"/> 
@@ -59,11 +56,36 @@ Hi there, I'm Felipe Marques – a seasoned iOS developer with a passion for cre
     
   <img class="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
+
+<div align="center">
+    <a class="status" href="https://github.com/felipemr">
+        <img width="450px" src="https://streak-stats.demolab.com?user=felipemr&theme=dracula&card_width450"/> 
+        <img width="450px" class="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemr&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+</div>
 
 ---
 
 ### Languages and Tools:
+<div align="center">
+    <img width="42px" height="42px" alt="Swift Icon" src="Assets/Images/Icons/Swift.jpeg"/>
+    <img width="42px" height="42px" alt="Objective-C Icon" src="Assets/Images/Icons/objc.png"/>
+</div>
 
+<div align="center">
+    <img width="42px" height="42px" alt="iOS Icon" src="Assets/Images/Icons/ios.svg"/>
+    <img width="42px" height="42px" alt="MacOS Icon" src="Assets/Images/Icons/macos.svg"/>
+</div>
+
+<div align="center">
+    <img width="42px" height="42px" alt="Figma Icon" src="Assets/Images/Icons/figma.png"/>
+    <img width="42px" height="42px" alt="Firebase Icon" src="Assets/Images/Icons/Firebase.jpeg"/>
+    <img width="42px" height="42px" alt="Xcode Icon" src="Assets/Images/Icons/xcode.png"/>
+    <img width="42px" height="42px" alt="Git Icon" src="Assets/Images/Icons/git.png"/>
+</div>
+
+<!-- Unfortunately CSS does not work on Github, uncomment this if this changed
 <div class="item">
     <img class="md-squircle" width="42px" height="42px" alt="Swift Icon" src="Assets/Images/Icons/Swift.jpeg"/>
     <p class="md-chip">Swift</p>
@@ -98,3 +120,4 @@ Hi there, I'm Felipe Marques – a seasoned iOS developer with a passion for cre
     <img class="md-squircle" width="42px" height="42px" alt="Git Icon" src="Assets/Images/Icons/git.png"/>
     <p class="md-chip">Git</p>
 </div>
+-->
