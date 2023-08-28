@@ -1,5 +1,45 @@
-### Hello there 👋  I'm Felipe Marques
+<style>
+.item {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+.md-chip {
+  border-style: solid;
+  border-color: #FFFFFF;
+  color:#FB5284;
+  padding: 0 .75em;
+  border-radius: 2em;
+  border-width: 1px;
+  font-size: .75rem;
+}
+.md-squircle{
+  border-radius:.75rem;
+  width:3rem;
+  height:3rem;
+  /* background:#FFFFFF; */
+}
+.stats {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.status {
+  height: 12em;
+  width: 25em;
+  /* background: yellow; */
+  flex: 50%;
+  padding: 5px;
+}
+@media (max-width: 900px) {
+  .stats {
+    flex-direction: column;
+  }
+}
+</style>
 
+![Banner](Assets/Images/Banner/Github.png)
 <!-- 
 **felipemr/felipemr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,15 +47,52 @@ Here are some ideas to get you started: -->
 
 Hi there, I'm Felipe Marques – a seasoned iOS developer with a passion for creating innovative apps that make a difference. With a background in 3D animation and computer science. When I'm not coding, I love spending time with my four dogs and cat and watching movies and TV series. I'm always looking to learn something new and expand my skills. Always excited to take on new challenges and push the boundaries of what's possible in iOS development.
 
+---
 
-<div align="center">
-  <a href="https://github.com/felipemr">
-    <img height="180em" src="https://streak-stats.demolab.com?user=felipemr&theme=dracula"/>
+### Stats:
+<div class="stats">
+  <a class="status" href="https://github.com/felipemr">
+    <img src="https://streak-stats.demolab.com?user=felipemr&theme=dracula&card_width450"/> 
+  </a>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemr&layout=compact&langs_count=7&theme=dracula"/>
+  <img class="status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Icon-Objective-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg">
-  <img align="center" alt="Icon-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+
+---
+
+### Languages and Tools:
+
+<div class="item">
+    <img class="md-squircle" alt="Swift Icon" src="Assets/Images/Icons/Swift.jpeg"/>
+    <p class="md-chip">Swift</p>
+</div>
+<div class="item">
+    <img class="md-squircle" alt="Objective-C Icon" src="Assets/Images/Icons/objc.png"/>
+    <p class="md-chip">Objective-C</p>
+</div>
+
+<div class="item">
+    <img class="md-squircle" alt="iOS Icon" src="Assets/Images/Icons/ios.svg"/>
+    <p class="md-chip">iOS</p>
+</div>
+<div class="item">
+    <img class="md-squircle" alt="MacOS Icon" src="Assets/Images/Icons/macos.svg"/>
+    <p class="md-chip">MacOS</p>
+</div>
+
+<div class="item">
+    <img class="md-squircle" alt="Figma Icon" src="Assets/Images/Icons/figma.png"/>
+    <p class="md-chip">Figma</p>
+</div>
+<div class="item">
+    <img class="md-squircle" alt="Firebase Icon" src="Assets/Images/Icons/Firebase.jpeg"/>
+    <p class="md-chip">Firebase</p>
+</div>
+<div class="item">
+    <img class="md-squircle" alt="Xcode Icon" src="Assets/Images/Icons/xcode.png"/>
+    <p class="md-chip">Xcode</p>
+</div>
+<div class="item">
+    <img class="md-squircle" alt="Git Icon" src="Assets/Images/Icons/git.png"/>
+    <p class="md-chip">Git</p>
 </div>
