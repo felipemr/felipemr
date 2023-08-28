@@ -1,3 +1,4 @@
+<!-- 
 <style>
 .item {
     vertical-align: top;
@@ -38,6 +39,7 @@
   }
 }
 </style>
+-->
 
 ![Banner](Assets/Images/Banner/Github.png)
 <!-- 
@@ -63,36 +65,36 @@ Hi there, I'm Felipe Marques – a seasoned iOS developer with a passion for cre
 ### Languages and Tools:
 
 <div class="item">
-    <img class="md-squircle" alt="Swift Icon" src="Assets/Images/Icons/Swift.jpeg"/>
+    <img class="md-squircle" width="42px" height="42px" alt="Swift Icon" src="Assets/Images/Icons/Swift.jpeg"/>
     <p class="md-chip">Swift</p>
 </div>
 <div class="item">
-    <img class="md-squircle" alt="Objective-C Icon" src="Assets/Images/Icons/objc.png"/>
+    <img class="md-squircle" width="42px" height="42px" alt="Objective-C Icon" src="Assets/Images/Icons/objc.png"/>
     <p class="md-chip">Objective-C</p>
 </div>
 
 <div class="item">
-    <img class="md-squircle" alt="iOS Icon" src="Assets/Images/Icons/ios.svg"/>
+    <img class="md-squircle" width="42px" height="42px" alt="iOS Icon" src="Assets/Images/Icons/ios.svg"/>
     <p class="md-chip">iOS</p>
 </div>
 <div class="item">
-    <img class="md-squircle" alt="MacOS Icon" src="Assets/Images/Icons/macos.svg"/>
+    <img class="md-squircle" width="42px" height="42px" alt="MacOS Icon" src="Assets/Images/Icons/macos.svg"/>
     <p class="md-chip">MacOS</p>
 </div>
 
 <div class="item">
-    <img class="md-squircle" alt="Figma Icon" src="Assets/Images/Icons/figma.png"/>
+    <img class="md-squircle" width="42px" height="42px" alt="Figma Icon" src="Assets/Images/Icons/figma.png"/>
     <p class="md-chip">Figma</p>
 </div>
 <div class="item">
-    <img class="md-squircle" alt="Firebase Icon" src="Assets/Images/Icons/Firebase.jpeg"/>
+    <img class="md-squircle" width="42px" height="42px" alt="Firebase Icon" src="Assets/Images/Icons/Firebase.jpeg"/>
     <p class="md-chip">Firebase</p>
 </div>
 <div class="item">
-    <img class="md-squircle" alt="Xcode Icon" src="Assets/Images/Icons/xcode.png"/>
+    <img class="md-squircle" width="42px" height="42px" alt="Xcode Icon" src="Assets/Images/Icons/xcode.png"/>
     <p class="md-chip">Xcode</p>
 </div>
 <div class="item">
-    <img class="md-squircle" alt="Git Icon" src="Assets/Images/Icons/git.png"/>
+    <img class="md-squircle" width="42px" height="42px" alt="Git Icon" src="Assets/Images/Icons/git.png"/>
     <p class="md-chip">Git</p>
 </div>
